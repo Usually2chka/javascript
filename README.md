@@ -1,5 +1,5 @@
 Update1 in branch2
-
+Update2 in branch2
 
 # Airbnb JavaScript Style Guide() {
 
